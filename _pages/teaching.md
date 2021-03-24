@@ -9,4 +9,5 @@ title: "Teaching"
 
 
 ## University of Minnesota
-- Introduction to Applied Bayesian Modeling (Summer 2020)
+- - -
+- STAT 3021: Introduction to Probability and Statistics (Summer 2020)

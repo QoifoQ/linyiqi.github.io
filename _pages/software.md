@@ -60,4 +60,4 @@ VarSVM is a Python scikit-learn estimators module for solving variants Support V
 [![](http://cranlogs.r-pkg.org/badges/last-month/svmadmm?color=blue)](https://cran.r-project.org/package=svmadmm)
 [![](http://cranlogs.r-pkg.org/badges/last-week/svmadmm?color=green)](https://cran.r-project.org/package=svmadmm)
 
-svmadmm an R package for solving large-scale regularized linear/nonlinear classification by using ADMM and IADMM algorithms. This package provides linear L2-regularized primal classification (both ADMM and IADMM are available), kernel L2-regularized dual classification (IADMM) as well as L1-regularized primal classification (both ADMM and IADMM are available).
+svmadmm an R package for solving large-scale regularized linear/nonlinear classification by using ADMM and IADMM algorithms. This package provides linear L2-regularized primal classification (both ADMM and IADMM are available), kernel L2-regularized dual classification as well as L1-regularized primal classification (both ADMM and IADMM are available). [ [Github](https://github.com/statmlben/svmadmm) ]

@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is in Statistical Machine Learning.
+My name is Ben Dai (戴奔). I'm an Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is in Statistical Machine Learning Methods.
+
+## Research Interests:
+* Statistical machine learning
+* Statistical learning theory
+* Explainable artificial intelligence (XAI)
+* Embedding learning
+* Recommender systems and ranking
+* Convex / nonconvex optimization
+
+Prior to joining the CUHK, I was a Postdoctoral Associate in the School of Statistics at University of Minnesota, under the supervision of Xiaotong Shen and Wei Pan. I received my PhD degree in School of Data Science at City University of Hong Kong in 2019, advised by Junhui Wang. Prior to CityU, I obtained my bachelor’s degree from Department of Mathematics at Hangzhou Dianzi University in 2015.
+
+
+
+
+<!-- I am Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is in Statistical Machine Learning. -->
 
 <!-- I am a final year PhD student in the [Mathematic for Real-World Systems CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick, where I am currently supervised by [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/), and previously by [Rich Savage](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/staffv2/savage). I am also a Visiting Researcher at the London based [Alan Turing Institute](https://www.turing.ac.uk/), having previously done an enrichment year there. I have also completed a placement at [Prowler.io](https://www.prowler.io/) in Cambridge working with ST John and James Hensman on a research project. My main area of research is in Probabilistic Machine Learning. I work on developing novel modelling and inference methodolgies for probabilistic models, with a particular focus on Gaussian process models. -->
 
@@ -18,11 +33,5 @@ B.A. in Mathematics from [Hangzhou Dianzi University](http://www.hdu.edu.cn/en).
 
 
 
-## Research Interests:
-* Statistical machine learning
-* Statistical learning theory
-* Explainable artificial intelligence (XAI)
-* Embedding learning
-* Recommender systems and ranking
-* Convex / nonconvex optimization
+
 

@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Rob Williams"
+locale                   : "en-HK"
+title                    : "Ben Dai"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ben Dai"
+description              : &description "Assistant Professor in Statistics"
+url                      : https://statmlben.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "statmlben/statmlben.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,16 +82,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Ben Dai"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "Assistant Professor"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0002-1620-1021"
+  googlescholar    : "https://scholar.google.com/citations?user=dl9PxlIAAAAJ&hl=en"
+  email            : "bdai@umn.edu"
+  researchgate     : "https://www.researchgate.net/profile/Ben-Dai-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,8 +99,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "statmlben"
+  gitlab           : # "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : # "jayrobw"
   vine             :
   weibo            :
   xing             :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   research:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Hongkong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

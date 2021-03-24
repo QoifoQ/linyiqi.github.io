@@ -8,7 +8,7 @@ title: "Software"
 - - -
 ## dnn-locate
 
-[![](https://pypi.org/project/dnn-locate/)](https://badge.fury.io/py/dnn-locate.svg)
+[![](https://badge.fury.io/py/dnn-locate.svg)](https://pypi.org/project/dnn-locate/)
 ![Python](https://img.shields.io/badge/python-3-blue.svg)
 ![License](https://img.shields.io/pypi/l/keras-bert.svg)
 ![Keras](https://img.shields.io/badge/keras-tf.keras-red.svg)
@@ -25,7 +25,7 @@ A python library for discriminative features localization based on neural networ
 
 ## dnn-inference
 
-[![](https://pypi.org/project/dnn-inference/)](https://badge.fury.io/py/dnn-inference.svg)
+[![](https://badge.fury.io/py/dnn-inference.svg)](https://pypi.org/project/dnn-inference/)
 ![Python](https://img.shields.io/badge/python-3-blue.svg)
 ![License](https://img.shields.io/pypi/l/keras-bert.svg)
 ![Keras](https://img.shields.io/badge/keras-tf.keras-red.svg)
@@ -42,7 +42,7 @@ Dnn-Inference is a Python module for hypothesis testing based on deep neural net
 
 ## varsvm
 
-[![](https://pypi.org/project/varsvm/)](https://badge.fury.io/py/varsvm.svg)
+[![](https://badge.fury.io/py/varsvm.svg)](https://pypi.org/project/varsvm/)
 ![Python](https://img.shields.io/badge/python-3-blue.svg)
 ![License](https://img.shields.io/pypi/l/keras-bert.svg)
 ![Downloads](https://static.pepy.tech/badge/varsvm)

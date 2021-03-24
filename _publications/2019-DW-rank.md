@@ -2,7 +2,7 @@
 title: "Query-dependent ranking and its asymptotic properties"
 collection: publications
 permalink: /publication/2019-DSWQ-rank.md
-date: 2019-10-01
+date: 2019-10-02
 venue: 'Electronic Journal of Statistics'
 link: 'https://doi.org/10.1214/19-EJS1531'
 citation: 'Ben Dai and Junhui Wang. 2019. &quot; Query-dependent ranking and its asymptotic properties. &quot; <i> Electronic Journal of Statistics </i>: 13(1):465-488, 2019'

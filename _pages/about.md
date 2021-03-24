@@ -15,8 +15,8 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
 ## Research Interests:
 <!-- | | | | |
 |-|-|-|-| -->
-| ⛳ Methodology (METH) | 📘 Learning Theory (LT) | 🎯 Optimization (OPT) | 🔍 Statistical Inference (INF) |
-| 💻 Software (SW) | 🔓 Explainable AI (XAI) | 🧬 Biostatistics (BIO) | 🕸️ Deep Learning (DL) |
+ ⛳ Methodology (METH) | 📘 Learning Theory (LT) | 🎯 Optimization (OPT) | 🔍 Statistical Inference (INF) 
+ 💻 Software (SW) | 🔓 Explainable AI (XAI) | 🧬 Biostatistics (BIO) | 🕸️ Deep Learning (DL)
 
 ## Professional Services
 * [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)

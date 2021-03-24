@@ -17,6 +17,7 @@ title: "Software"
 A python library for discriminative features localization based on neural networks.
 
 ![<img src="https://github.com/statmlben/dnn-locate/blob/master/logos/demo.png">](https://github.com/statmlben/dnn-locate)
+![dnn_loc_demo](https://github.com/statmlben/dnn-locate/blob/master/logos/demo.png)
 
 - - -
 ## dnn-inference

@@ -33,7 +33,7 @@ A python library for discriminative features localization based on neural networ
 
 ![](/images/software/dnn_inf.png)
 
-Dnn-Inference is a Python module for hypothesis testing based on deep neural networks. Documentation: https://dnn-inference.readthedocs.io
+Dnn-Inference is a Python module for hypothesis testing based on deep neural networks. Check Python API in [Documentation](https://dnn-inference.readthedocs.io).
 
 ![](/images/software/dnn_inf_demo.png)
 
@@ -50,7 +50,7 @@ Dnn-Inference is a Python module for hypothesis testing based on deep neural net
 
 ![](/images/software/varsvm_logo.png)
 
-VarSVM is a Python scikit-learn estimators module for solving variants Support Vector Machines (SVM). Documentation: https://variant-svm.readthedocs.io
+VarSVM is a Python scikit-learn estimators module for solving variants Support Vector Machines (SVM). Check Python API in [Documentation](https://variant-svm.readthedocs.io).
 
 ## svmadmm
 

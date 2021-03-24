@@ -36,4 +36,4 @@ author_profile: true
 - - -
 * He, C., Lin, J., Chang, J., Antonello, J., **Dai, B.**, Wang, J., ... & Booth, M. J. (2021). Full Poincar\'e mapping for ultra-sensitive polarimetry. *arXiv preprint* arXiv:2101.09372. [ [html](https://arxiv.org/abs/2101.09372) + [pdf](https://arxiv.org/pdf/2101.09372.pdf) ]
 
-* He, C., Chang, J., Hu, Q., Wang, J., Antonello, J., He, H., Liu, S., Lin, J., **Dai, B.**, Elson, D.S. and Xi, P. (2019). Complex vectorial optics through gradient index lens cascades. Nature communications, **10**(1), pp.1-8. [ [html](https://www.nature.com/articles/s41467-019-12286-3) + [pdf](https://www.nature.com/articles/s41467-019-12286-3.pdf) ]
+* He, C., Chang, J., Hu, Q., Wang, J., Antonello, J., He, H., Liu, S., Lin, J., **Dai, B.**, Elson, D.S. and Xi, P. (2019). Complex vectorial optics through gradient index lens cascades. *Nature communications*, **10**(1), pp.1-8. [ [html](https://www.nature.com/articles/s41467-019-12286-3) + [pdf](https://www.nature.com/articles/s41467-019-12286-3.pdf) ]

@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ben Dai (戴奔). I'm an Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is in Statistical Machine Learning Methods.
+My name is Ben Dai (戴奔). I'm an Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is developing Statistical Machine Learning Methods with *reliable theoretical supports*, *good empirical performance* and *scalable softwares*.
 
 Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota](https://twin-cities.umn.edu/), under the supervision of [Xiaotong Shen](http://users.stat.umn.edu/~xshen/) and [Wei Pan](http://www.biostat.umn.edu/~weip/). I received my PhD degree in [Data Science](https://www.sdsc.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/) in 2019, advised by [Junhui Wang](https://sites.google.com/site/junhuiwang). Prior to CityU, I obtained my bachelor’s degree from [Department of Mathematics](http://sci.hdu.edu.cn/3050/list.htm) at [Hangzhou Dianzi University](http://www.hdu.edu.cn/) in 2015.
 
 ## Research Interests:
 | | | | |
 |-|-|-|-|
-| :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | :mag_right: Statistical Inference (INF) |
-| :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostatistics (BIO) | :dart: Deep Learning (DL) |
+| ⛳ Methodology (METH) | Learning Theory (LT) | Optimization (OPT) | Statistical Inference (INF) |
+| Software (SW) | Explainable AI (XAI) | Biostatistics (BIO) | Deep Learning (DL) |
 
 ## Professional Services
 * [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)

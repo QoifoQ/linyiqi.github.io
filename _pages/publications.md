@@ -3,7 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-cxzhjczxhcjkzhcjhxzjkhcxzjk
 ---
 
 {% if author.googlescholar %}
@@ -15,5 +14,16 @@ cxzhjczxhcjkzhcjhxzjkhcxzjk
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+## Statistical methodology
+
+- **Dai, B.**, Shen, X., & Wong, W. (2020). Coupled generation. *Journal of the American Statistical Association*, in press.
+
+- **Dai, B.**, Shen, X., & Wang, J. (2020). Embedding learning. *Journal of the American Statistical Association*, in press.
+
+- **Dai, B.**, Shen, X., Wang, J., & Qu, A. (2019). Scalable Collaborative Ranking for Personalized Prediction. *Journal of the American Statistical Association*, in press.
+
+- **Dai, B.**, Wang, J., Shen, X., & Qu, A. (2019). Smooth neighborhood recommender systems. *Journal of machine learning research*, **1**(24).
 
 <!-- <sup>*</sup> Equal authorship statement -->

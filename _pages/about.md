@@ -10,6 +10,8 @@ redirect_from:
 
 My name is Ben Dai (戴奔). I'm an Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is in Statistical Machine Learning Methods.
 
+Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota](https://twin-cities.umn.edu/), under the supervision of [Xiaotong Shen](http://users.stat.umn.edu/~xshen/) and [Wei Pan](http://www.biostat.umn.edu/~weip/). I received my PhD degree in School of Data Science at City University of Hong Kong in 2019, advised by [Junhui Wang](https://sites.google.com/site/junhuiwang). Prior to CityU, I obtained my bachelor’s degree from [Department of Mathematics](http://sci.hdu.edu.cn/3050/list.htm) at [Hangzhou Dianzi University](http://www.hdu.edu.cn/) in 2015.
+
 ## Research Interests:
 * Statistical machine learning
 * Statistical learning theory
@@ -17,11 +19,6 @@ My name is Ben Dai (戴奔). I'm an Assistant Professor in the [Department of St
 * Embedding learning
 * Recommender systems and ranking
 * Convex / nonconvex optimization
-
-Prior to joining the CUHK, I was a Postdoctoral Associate in the School of Statistics at University of Minnesota, under the supervision of Xiaotong Shen and Wei Pan. I received my PhD degree in School of Data Science at City University of Hong Kong in 2019, advised by Junhui Wang. Prior to CityU, I obtained my bachelor’s degree from Department of Mathematics at Hangzhou Dianzi University in 2015.
-
-
-
 
 <!-- I am Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is in Statistical Machine Learning. -->
 

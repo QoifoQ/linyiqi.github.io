@@ -18,7 +18,7 @@ author_profile: true
 
 ## Statistical methodology
 
-- **Dai, B.**, Shen, X., & Wong, W. (2020). Coupled generation. *Journal of the American Statistical Association*, in press.
+- **Dai, B.**, Shen, X., & Wong, W. (2020). Coupled generation. *Journal of the American Statistical Association*, in press. [ [html](https://doi.org/10.1080/01621459.2020.1844719) | [code](https://amstat.tandfonline.com/doi/suppl/10.1080/01621459.2020.1844719?scroll=top#.YFt5dUNKiV4) ]
 
 - **Dai, B.**, Shen, X., & Wang, J. (2020). Embedding learning. *Journal of the American Statistical Association*, in press.
 

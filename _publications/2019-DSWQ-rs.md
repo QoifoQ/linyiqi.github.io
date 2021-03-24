@@ -2,7 +2,7 @@
 title: "Smooth neighborhood recommender systems"
 collection: publications
 permalink: /publication/2020-DSWQ-rs.md
-date: 2019-10-1
+date: 2019-10-02
 venue: 'Journal of Machine Learning Research'
 link: 'https://www.jmlr.org/papers/v20/17-629.html'
 citation: 'Ben Dai, Xiaotong Shen, Junhui Wang and Annie Qu. 2019. &quot; Smooth neighborhood recommender systems. &quot; <i>Journal of Machine Learning Research</i>: 20(16):1-24, 2019'

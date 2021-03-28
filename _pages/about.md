@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# About me
 
 My name is Ben Dai (戴奔). I'm an Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is developing a Statistical Machine Learning Method with *reliable theoretical supports*, *good empirical performance* and *a scalable software*.
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-HK"
-title                    : "Ben Dai 戴奔"
+title                    : "Ben Dai"
 title_separator          : "-"
 name                     : &name "Ben Dai"
 description              : &description "Assistant Professor in Statistics"

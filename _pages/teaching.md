@@ -3,8 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Chinese University of Hong Kong
-- STAT 3009: Recommender Systems (Fall 2021)
+## The Chinese University of Hong Kong
+- STAT 3009: Recommender Systems (Fall 2021) [Course homepage](/STAT3009)
 
 
 ## University of Minnesota

@@ -23,7 +23,7 @@ title: "Join Us"
 
 - 💰 Benefits
 
-  - One-year contact, can be extended to 2-3 years
+  - One-year contract, can be extended to 2-3 years
   - monthly salary around ~ HKD$30,000
 
 ## 📘 Postdoctoral fellow
@@ -32,10 +32,10 @@ title: "Join Us"
 
   - Develop novel statistical methodologies with both numerical and theoretical justification
   - Excellent English writing/presentation skills
-  - Implement software for new developed statistical methodologies.
+  - Implement software for new developed statistical methodologies
 
 - 💰 Benefits
-  - Two-year contact
+  - Two-year contract
   - monthly salary ~ HKD$37,000
 
 ## 🈸 How to Apply

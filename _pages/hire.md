@@ -10,7 +10,7 @@ title: "Join Us"
 
 ## 📗 PhD Student
 
-- For more information, pls check out [M.Phil./Ph.D. in Statistics](https://www.sta.cuhk.edu.hk/Programmes/PostgraduateStudies/MPhil-PhDinStatistics.aspx#Admission).
+- For more information, please check out [M.Phil./Ph.D. in Statistics](https://www.sta.cuhk.edu.hk/Programmes/PostgraduateStudies/MPhil-PhDinStatistics.aspx#Admission).
 
 ## ⌨️ Research Assistant
 

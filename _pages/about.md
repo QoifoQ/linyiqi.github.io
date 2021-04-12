@@ -26,12 +26,14 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
     📧 Email: bdai AT umn dot edu
 
     🏢 Office: Room 117, Lady Shaw Building
-            The Chinese University of Hong Kong
-            Central Ave, Shatin, Hong Kong  
+               The Chinese University of Hong Kong
+               Central Ave, Shatin, Hong Kong
 
 ## Professional Services
 * [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)
 * Program committee: [The 30th International Joint Conference on Artificial Intelligence (IJCAI-21)](https://ijcai-21.org/)
+
+
 
 <!-- I am Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is in Statistical Machine Learning. -->
 

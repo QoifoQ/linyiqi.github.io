@@ -23,11 +23,15 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
 
 ## Contact Info
 
-    Email: bdai AT umn dot edu
+  Email: 
+      
+        bdai AT umn dot edu
 
-    Office: Room 117, Lady Shaw Building
-            The Chinese University of Hong Kong
-            Central Ave, Shatin, Hong Kong  
+  Office: 
+  
+        Room 117, Lady Shaw Building
+        The Chinese University of Hong Kong
+        Central Ave, Shatin, Hong Kong  
 
 ## Professional Services
 * [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)

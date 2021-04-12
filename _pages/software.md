@@ -3,7 +3,11 @@ permalink: /software/
 title: "Software"
 ---
 
-| [dnn-locate](##--dnn-locate-) | [dnn-inference](##dnn-inference) | [varsvm](##varsvm) | [svmadmm](##svmadmm) |
+- [dnn-locate](#dnn-locate): a python library for discriminative features localization based on neural networks. [ [Github](https://github.com/statmlben/dnn-locate) ]
+- [dnn-inference](#dnn-inference): a Python module for hypothesis testing based on deep neural networks. [ [Github](https://github.com/statmlben/dnn-inference) + [Documentation](https://dnn-inference.readthedocs.io) ]
+- [varsvm](#varsvm): a Python scikit-learn estimators module for solving variants Support Vector Machines (SVM). [ [Github](https://github.com/statmlben/Variant-SVM) + [Documentation](https://variant-svm.readthedocs.io) ]
+- [svmadmm](#svmadmm): an R package for solving large-scale regularized linear/nonlinear classification by using ADMM and IADMM algorithms. [ [Github](https://github.com/statmlben/svmadmm) ]
+
 
 - - -
 ## dnn-locate

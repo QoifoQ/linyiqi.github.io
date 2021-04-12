@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Join Us"
+    url: /hire/
     
   # - title: "CV"
   #   url: /cv/

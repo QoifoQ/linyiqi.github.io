@@ -18,7 +18,7 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
 
 | ⛳ <span style="font-size:1.2em;"> Methodology (METH) </span> | 📘 <span style="font-size:1.2em;"> Learning Theory (LT) </span> | 🎯 <span style="font-size:1.2em;"> Optimization (OPT) </span>  | 🔍 <span style="font-size:1.2em;"> Inference (INF) </span> |
 | 💻 <span style="font-size:1.2em;"> Software (SW) </span> | 🔓 <span style="font-size:1.2em;"> Explainable AI (XAI) </span>  | 🧬 <span style="font-size:1.2em;"> Biostatistics (BIO) </span> | 🕸️ <span style="font-size:1.2em;"> Deep Learning (DL) </span> |
-| 🆙 <span style="font-size:1.2em;"> Recommender Systems (Recsys) </span> | 🎖️ <span style="font-size:1.2em;"> Ranking (RANK) </span>  | 
+| 🆙 <span style="font-size:1.2em;"> Recommender Systems (RS) </span> | 🎖️ <span style="font-size:1.2em;"> Ranking (RANK) </span>  | 
 
 ## Professional Services
 * [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)

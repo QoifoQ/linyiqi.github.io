@@ -3,7 +3,7 @@ permalink: /software/
 title: "Software"
 ---
 
-| [dnn-locate](##dnn-locate) | [dnn-inference](##dnn-inference) | [varsvm](##varsvm) | [svmadmm](##svmadmm) |
+| [dnn-locate](##--dnn-locate-) | [dnn-inference](##dnn-inference) | [varsvm](##varsvm) | [svmadmm](##svmadmm) |
 
 - - -
 ## dnn-locate

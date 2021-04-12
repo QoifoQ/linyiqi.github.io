@@ -12,13 +12,22 @@ redirect_from:
 
 My name is Ben Dai (戴奔). I'm an Assistant Professor in the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My main area of research is developing a Statistical Machine Learning Method with *reliable theoretical supports*, *good empirical performance* and *a scalable software*.
 
-Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota](https://twin-cities.umn.edu/), under the supervision of [Xiaotong Shen](http://users.stat.umn.edu/~xshen/) and [Wei Pan](http://www.biostat.umn.edu/~weip/). I received my PhD degree in [Data Science](https://www.sdsc.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/) in 2019, advised by [Junhui Wang](https://sites.google.com/site/junhuiwang). Prior to CityU, I obtained my bachelor’s degree from [Department of Mathematics](http://sci.hdu.edu.cn/3050/list.htm) at [Hangzhou Dianzi University](http://www.hdu.edu.cn/) in 2015.
+Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Statistics](https://cla.umn.edu/statistics) at [University of Minnesota](https://twin-cities.umn.edu/), under the supervision of [Xiaotong Shen](http://users.stat.umn.edu/~xshen/) and [Wei Pan](http://www.biostat.umn.edu/~weip/). I received my PhD degree in [Data Science](https://www.sdsc.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/) in 2019, advised by [Junhui Wang](https://sites.google.com/site/junhuiwang). Prior to CityU, I obtained my bachelor’s degree in Mathematics at [Hangzhou Dianzi University](http://www.hdu.edu.cn/) in 2015.
 
 ## Research Interests:
+<!-- 🎯 <span style="font-size:1.2em;"> Optimization </span>  | 🔍 <span style="font-size:1.2em;"> Inference </span> | -->
 
-| ⛳ <span style="font-size:1.2em;"> Methodology (METH) </span> | 📘 <span style="font-size:1.2em;"> Learning Theory (LT) </span> | 🎯 <span style="font-size:1.2em;"> Optimization (OPT) </span>  | 🔍 <span style="font-size:1.2em;"> Inference (INF) </span> |
-| 💻 <span style="font-size:1.2em;"> Software (SW) </span> | 🔓 <span style="font-size:1.2em;"> Explainable AI (XAI) </span>  | 🧬 <span style="font-size:1.2em;"> Biostatistics (BIO) </span> | 🕸️ <span style="font-size:1.2em;"> Deep Learning (DL) </span> |
-| 🆙 <span style="font-size:1.2em;"> RecSystem (RS) </span> | 🎖️ <span style="font-size:1.2em;"> Ranking (RANK) </span>  | 
+
+| ⛳ <span style="font-size:1.2em;"> Methodology </span> | 📘 <span style="font-size:1.2em;"> Learning Theory </span> |  💻 <span style="font-size:1.2em;"> Software </span> | 🕸️ <span style="font-size:1.2em;"> Deep Learning </span> |
+| 🔓 <span style="font-size:1.2em;"> Explainable AI </span>  | 🧬 <span style="font-size:1.2em;"> Biostatistics </span> | 🆙 <span style="font-size:1.2em;"> RecSystem  </span> | 🎖️ <span style="font-size:1.2em;"> Ranking </span> | 
+
+## Contact Info
+
+    Email: bdai AT umn dot edu
+
+    Office: Room 117, Lady Shaw Building
+            The Chinese University of Hong Kong
+            Central Ave, Shatin, Hong Kong  
 
 ## Professional Services
 * [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)

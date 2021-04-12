@@ -23,9 +23,9 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
 
 ## Contact Info
 
-    Email: bdai AT umn dot edu
+    📧 Email: bdai AT umn dot edu
 
-    Office: Room 117, Lady Shaw Building
+    🏢 Office: Room 117, Lady Shaw Building
             The Chinese University of Hong Kong
             Central Ave, Shatin, Hong Kong  
 

@@ -19,7 +19,7 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
 
 
 | ⛳ Methodology | 📘 Learning Theory |  💻 Software | 🕸️ Deep Learning | 🎖️ Ranking
-| 🔓 Explainable AI | 🧬 Biostatistics | 🆙 RecSystem | 🎯 Optimization |
+| 🔓 Explainable AI | 🧬 Biostatistics | 🆙 Recommender Systems | 🎯 Optimization |
 
 ## Contact Info
 

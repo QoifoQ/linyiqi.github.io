@@ -18,20 +18,16 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
 <!-- 🎯 <span style="font-size:1.2em;"> Optimization </span>  | 🔍 <span style="font-size:1.2em;"> Inference </span> | -->
 
 
-| ⛳ <span style="font-size:1.2em;"> Methodology </span> | 📘 <span style="font-size:1.2em;"> Learning Theory </span> |  💻 <span style="font-size:1.2em;"> Software </span> | 🕸️ <span style="font-size:1.2em;"> Deep Learning </span> |
-| 🔓 <span style="font-size:1.2em;"> Explainable AI </span>  | 🧬 <span style="font-size:1.2em;"> Biostatistics </span> | 🆙 <span style="font-size:1.2em;"> RecSystem  </span> | 🎖️ <span style="font-size:1.2em;"> Ranking </span> | 
+| ⛳ Methodology | 📘 Learning Theory |  💻 Software | 🕸️ Deep Learning |
+| 🔓 Explainable AI  | 🧬 Biostatistics | 🆙 RecSystem | 🎖️ Ranking | 
 
 ## Contact Info
 
-  Email: 
-      
-        bdai AT umn dot edu
+    Email: bdai AT umn dot edu
 
-  Office: 
-  
-        Room 117, Lady Shaw Building
-        The Chinese University of Hong Kong
-        Central Ave, Shatin, Hong Kong  
+    Office: Room 117, Lady Shaw Building
+            The Chinese University of Hong Kong
+            Central Ave, Shatin, Hong Kong  
 
 ## Professional Services
 * [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)

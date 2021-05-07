@@ -18,6 +18,7 @@ table {
 thead {
   background-color: $lighter-gray;
   border-bottom: 1px solid $light-gray;
+  border-right: none;
   border-collapse: collapse;
 }
 
@@ -32,7 +33,6 @@ td {
   padding: 0.5em;
   border-bottom: 1px solid $light-gray;
   border-right: none;
-  border: none;
 }
 
 tr, td, th {

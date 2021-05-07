@@ -24,11 +24,13 @@ th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
+  border-collapse: collapse;
   border-right: 1px solid $light-gray;
 }
 
 td {
   padding: 0.5em;
+  border-collapse: collapse;
   border-bottom: 1px solid $light-gray;
   border-right: 1px solid $light-gray;
 }

@@ -18,7 +18,7 @@ author_profile: true
 
 ## Statistics / Machine Learning Publication
 - - -
-* **Dai, B.**, Shen, X., & Pan, W. (2021). Significance tests of feature relevance for a blackbox learner. *arXiv preprint* arXiv:2103.04985. [ [html](https://arxiv.org/abs/2103.04985) + [pdf](https://arxiv.org/pdf/2103.04985.pdf) + [github](https://github.com/statmlben/dnn-inference) + [docs](https://dnn-inference.readthedocs.io/en/latest/) ]
+* **Dai, B.**, Shen, X., & Pan, W. (2021). Significance tests of feature relevance for a blackbox learner. *arXiv preprint* arXiv:2103.04985. [ [JSM2021](./talk/dnnInf_ben_JSM2021.pdf) + [html](https://arxiv.org/abs/2103.04985) + [pdf](https://arxiv.org/pdf/2103.04985.pdf) + [github](https://github.com/statmlben/dnn-inference) + [docs](https://dnn-inference.readthedocs.io/en/latest/) ]
 
 * Xu, S., **Dai, B.**, & Wang, J. (2021). Sentiment analysis with covariate-assisted word embeddings. *Electronic Journal of Statistics*, **15**(1), 3015-3039. [ [html](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Sentiment-analysis-with-covariate-assisted-word-embeddings/10.1214/21-EJS1854.full) + [code](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Sentiment-analysis-with-covariate-assisted-word-embeddings/10.1214/21-EJS1854.full?tab=ArticleLinkSupplemental) ]
 

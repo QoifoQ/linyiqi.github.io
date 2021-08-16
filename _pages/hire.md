@@ -39,7 +39,7 @@ title: "Join Us"
   - monthly salary ~ HKD$37,000
 
 ## 🈸 How to Apply
-- If you are interested in working with me, please email <bendaimath@gmail.com> with following documents:
+- If you are interested in working with me, please email <bendai@cuhk.edu.hk> with following documents:
     - CV
     - Publications (If available)
     - Machine learning related Python/C++/C/R Repositories (If available)

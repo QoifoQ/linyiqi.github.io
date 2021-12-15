@@ -33,8 +33,8 @@ A python library for discriminative features localization based on neural networ
 ![Python](https://img.shields.io/badge/python-3-blue.svg)
 ![License](https://img.shields.io/pypi/l/keras-bert.svg)
 ![Keras](https://img.shields.io/badge/keras-tf.keras-red.svg)
-![Downloads](https://static.pepy.tech/badge/dnn-inference)
-![MonthDownloads](https://pepy.tech/badge/dnn-inference/month)
+[![Downloads](https://static.pepy.tech/badge/dnn-inference)](https://pepy.tech/project/dnn-inference)
+[![MonthDownloads](https://pepy.tech/badge/dnn-inference/month)](https://pepy.tech/project/dnn-inference)
 
 ![](/images/software/dnn_inf.png)
 
@@ -49,8 +49,8 @@ Dnn-Inference is a Python module for hypothesis testing based on deep neural net
 [![](https://badge.fury.io/py/varsvm.svg)](https://pypi.org/project/varsvm/)
 ![Python](https://img.shields.io/badge/python-3-blue.svg)
 ![License](https://img.shields.io/pypi/l/keras-bert.svg)
-![Downloads](https://static.pepy.tech/badge/varsvm)
-![MonthDownloads](https://pepy.tech/badge/varsvm/month)
+[![Downloads](https://static.pepy.tech/badge/varsvm)](https://pepy.tech/project/varsvm)
+[![MonthDownloads](https://pepy.tech/badge/varsvm/month)](https://pepy.tech/project/varsvm)
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3830281.svg)
 
 ![](/images/software/varsvm_logo.png)

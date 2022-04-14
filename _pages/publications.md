@@ -21,11 +21,11 @@ author_profile: true
 
 * **Dai, B.**, Shen, X., & Pan, W. (2021). Significance tests of feature relevance for a blackbox learner. *arXiv preprint* arXiv:2103.04985. [ [slides](./talk/dnnInf_ben_JSM2021.pdf) + [html](https://arxiv.org/abs/2103.04985) + [pdf](https://arxiv.org/pdf/2103.04985.pdf) + [github](https://github.com/statmlben/dnn-inference) + [docs](https://dnn-inference.readthedocs.io/en/latest/) ]
 
-* **Dai, B.**, Shen, X., & Pan, W. (2021). Two-level monotonic multistage recommender systems. *Electronic Journal of Statistics*. [ [html](https://arxiv.org/abs/2110.06116) + [pdf](https://arxiv.org/pdf/2110.06116.pdf) ]
-
 * **Dai, B.**, Shen, X., & Wong, W. (2021+). Coupled generation. *Journal of the American Statistical Association*, in press. [ [html](https://doi.org/10.1080/01621459.2020.1844719) + [code](https://amstat.tandfonline.com/doi/suppl/10.1080/01621459.2020.1844719?scroll=top#.YFt5dUNKiV4) ]
 
-* **Dai, B.**, Shen, X., & Wang, J. (2021+). Embedding learning. *Journal of the American Statistical Association*, in press. [ [html](https://doi.org/10.1080/01621459.2020.1775614) + [code](https://amstat.tandfonline.com/doi/suppl/10.1080/01621459.2020.1775614?scroll=top#.YFt50kNKiV4) + [github](https://github.com/statmlben/embedding-learning) + [slides](https://www.researchgate.net/publication/346572305_slidespdf) ]
+* **Dai, B.**, Shen, X., & Wang, J. (2022). Embedding learning. *Journal of the American Statistical Association*, **117**(537), 307-319. [ [html](https://doi.org/10.1080/01621459.2020.1775614) + [code](https://amstat.tandfonline.com/doi/suppl/10.1080/01621459.2020.1775614?scroll=top#.YFt50kNKiV4) + [github](https://github.com/statmlben/embedding-learning) + [slides](https://www.researchgate.net/publication/346572305_slidespdf) ]
+
+* **Dai, B.**, Shen, X., & Pan, W. (2021). Two-level monotonic multistage recommender systems. *Electronic Journal of Statistics*. [ [html](https://arxiv.org/abs/2110.06116) + [pdf](https://arxiv.org/pdf/2110.06116.pdf) ]
 
 * Xu, S., **Dai, B.**, & Wang, J. (2021). Sentiment analysis with covariate-assisted word embeddings. *Electronic Journal of Statistics*, **15**(1), 3015-3039. [ [html](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Sentiment-analysis-with-covariate-assisted-word-embeddings/10.1214/21-EJS1854.full) + [code](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Sentiment-analysis-with-covariate-assisted-word-embeddings/10.1214/21-EJS1854.full?tab=ArticleLinkSupplemental) ]
 
@@ -40,7 +40,8 @@ author_profile: true
 ## Collaborative Publication
 - - -
 
-* He, C., Chang, J., Salter, P. S., Shen, Y., **Dai, B.**, Li, P., ... & Booth, M. J. (2021). Revealing complex optical phenomena through vectorial metrics. *arXiv preprint* arXiv:2107.09624. [ [html](https://arxiv.org/abs/2107.09624) + [pdf](https://arxiv.org/pdf/2107.09624.pdf) ]
+He, C., Chang, J., Salter, P. S., Shen, Y., **Dai, B.**, Li, P., ... & Booth, M. J. (2022). Revealing complex optical phenomena through vectorial metrics. *Advanced Photonics*, **4**(2), 026001. [ [On the journal cover](https://www.spiedigitallibrary.org/images/Journals/VolumeCovers/AP-4-2-270.jpg) + [html](https://doi.org/10.1117/1.AP.4.2.026001) + [pdf](https://arxiv.org/pdf/2107.09624.pdf) ]
+
 
 * He, C., Lin, J., Chang, J., Antonello, J., **Dai, B.**, Wang, J., ... & Booth, M. J. (2021). Full Poincar\'e mapping for ultra-sensitive polarimetry. *arXiv preprint* arXiv:2101.09372. [ [html](https://arxiv.org/abs/2101.09372) + [pdf](https://arxiv.org/pdf/2101.09372.pdf) ]
 

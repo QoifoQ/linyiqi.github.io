@@ -35,9 +35,8 @@ Prior to joining the CUHK, I was a Postdoctoral Associate in the [School of Stat
                Central Ave, Shatin, Hong Kong
 
 ## Professional Services
-* [Editorial board reviewers](https://www.jmlr.org/editorial-board-reviewers.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)
-* Program committee: [The 30th International Joint Conference on Artificial Intelligence (IJCAI-21)](https://ijcai-21.org/)
-
+* [Editorial board reviewers](https://www.jmlr.org/editorial-board.html) (2020 - Present): [Journal of Machine Learning Research](https://www.jmlr.org/)
+* Program committee: [AISTATS-2022 Top Reviewer](https://virtual.aistats.org/Conferences/2022/Reviewers), IJCAI-2021
 
 
 <!-- I am a final year PhD student in the [Mathematic for Real-World Systems CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick, where I am currently supervised by [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/), and previously by [Rich Savage](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/staffv2/savage). I am also a Visiting Researcher at the London based [Alan Turing Institute](https://www.turing.ac.uk/), having previously done an enrichment year there. I have also completed a placement at [Prowler.io](https://www.prowler.io/) in Cambridge working with ST John and James Hensman on a research project. My main area of research is in Probabilistic Machine Learning. I work on developing novel modelling and inference methodolgies for probabilistic models, with a particular focus on Gaussian process models. -->

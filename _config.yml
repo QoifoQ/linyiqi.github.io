@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-HK"
-title                    : "Ben Dai"
+locale                   : "Hong Kong"
+title                    : "Yiqi LIN"
 title_separator          : "-"
-name                     : &name "Ben Dai"
-description              : &description "Assistant Professor in Statistics"
+name                     : &name "Yiqi Lin"
+description              : &description "Ph.D. Candidate in Statistics"
 url                      : https://bendai.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "statmlben/statmlben.github.io"
+repository               : "QoifoQ/linyiqi.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,16 +82,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben Dai"
+  name             : "Yiqi Lin"
   avatar           : "profile.png"
-  bio              : "Assistant Professor; Statistics; Machine Learning; CUHK"
+  bio              : "Ph.D. Candidate; Statistics; Econometrics; The Chinese University of Hong Kong; University of Oxford"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           :
-  orcid            : "https://orcid.org/0000-0002-1620-1021"
-  googlescholar    : "https://scholar.google.com/citations?user=dl9PxlIAAAAJ&hl=en"
-  email            : "bdai@umn.edu"
-  researchgate     : "https://www.researchgate.net/profile/Ben-Dai-3"
+  orcid            : #"https://orcid.org/0000-0002-1620-1021"
+  googlescholar    : #"https://scholar.google.com/citations?user=dl9PxlIAAAAJ&hl=en"
+  email            : "YiqiLIN@link.cuhk.edu.hk"
+  researchgate     : #"https://www.researchgate.net/profile/Ben-Dai-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "statmlben"
+  github           : "QoifoQ"
   gitlab           : # "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/ben-dai-2b6379218/
+  linkedin         : https://www.linkedin.com/in/yiqilin-g28/
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

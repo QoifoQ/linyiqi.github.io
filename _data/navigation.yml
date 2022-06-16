@@ -15,5 +15,5 @@ main:
   #- title: "Join Us"
   #  url: /hire/
     
-   - title: "CV"
-     url: /cv/
+  # - title: "CV"
+  #   url: /cv/

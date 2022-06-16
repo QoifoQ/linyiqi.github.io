@@ -187,9 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  hire:
-    output: true
-    permalink: /:collection/:path/
+  #hire:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -248,13 +248,13 @@ defaults:
       author_profile: true
       share: true
   # _hire
-  - scope:
-      path: ""
-      type: hire
-    values:
-      layout: hire
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: hire
+  #  values:
+  #    layout: hire
+  #    author_profile: true
+   #   share: true
 
 # Sass/SCSS
 sass:

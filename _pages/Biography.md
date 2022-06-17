@@ -9,7 +9,7 @@ title: "Biography"
   - Supervisor: Prof. Frank Windmeijer (Dept. STAT)
   - Duration: Apr 1, 2022 - Jun 30, 2022
 - **Ph.D. Candidate** in Statistics, Department of Statistics, **The Chinese University of Hong Kong (CUHK)**
-  - Supervisor: Prof. Xinyuan Song (Chairman of Dept. STAT); Co-supervisor: Prof. Qingliang Fan (Dept. ECONf)
+  - Supervisor: Prof. Xinyuan Song (Chairman of Dept. STAT); Co-supervisor: Prof. Qingliang Fan (Dept. ECON)
   - GPA: 3.956/4.0
   - Duration: Aug 1, 2019 - Jul 30, 2023 (Expected)
 - Exchanging Student, Department of Mathematics, University of California, San Diego (UCSD)

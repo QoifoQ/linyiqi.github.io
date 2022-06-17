@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiqi Lin"
-  avatar           : "./images/IMG_4190.jpg"
+  avatar           : https://qoifoq.github.io/linyiqi.github.io/images/IMG_4190.jpg
   bio              : "Ph.D. Candidate in Statistics, The Chinese University of Hong Kong; Visiting researcher in University of Oxford"
   location         : "Hong Kong SAR"
   employer         :

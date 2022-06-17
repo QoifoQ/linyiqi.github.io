@@ -4,6 +4,7 @@ title: "Biography"
 ---
 
 # Education
+- - -
 - Doctoral Visiting Researcher in Department of Statistics, University of Oxford
   - Supervisor: Prof. Frank Windmeijer (Dept. STAT)
   - Duration: Apr 1, 2022 - Jun 30, 2022
@@ -19,25 +20,29 @@ title: "Biography"
   - Ranking: 1st/40
   - Duration: Sep 1, 2015 - Jun 30, 2019
 
+- - -
 # Awards
 - CUHK
   - Reach Out Award (Hong Kong Gov)
   - Overseas Research Award & Research Exploration Award (Dept. Stat)
 - SUSTech 
   - Outstanding Graduates
-  - First Prize Scholarship (2018)
-  - Second Prize Scholarship (2016,2017)
+  - First Prize Scholarship (2018，2017)
+  - Second Prize Scholarship (2016)
   - Scholarship Award for Excellence (Dept. MATH);
 
-# Competetions
+- - -
+
+# Experience
 - Mathmatical Modelling
-
+  - National Second Prize in 2016 Contemporary Undergraduate Mathematical Contest in modelling.
+  - Honorable Mention in 2017 Mathematical Contest In Modeling.
+  - Second Prize in 2016 Aais and Pacific Mathematical Contest in Modelling.
 - Swiming Race
+  -
+
+- Financial Knowledge
 
 
-
-# Experience 
-
-# 
 
 

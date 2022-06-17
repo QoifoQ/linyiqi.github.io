@@ -1,6 +1,6 @@
 ---
-permalink: /Biography/
-title: "Biography"
+permalink: /Life and Journey/
+title: "Life and Journey"
 ---
 
 ## Life in Hong Kong

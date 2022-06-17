@@ -2,9 +2,9 @@
 permalink: /Biography/
 title: "Biography"
 ---
-
-# Education
 - - -
+# Education
+
 - Doctoral Visiting Researcher in Department of Statistics, University of Oxford
   - Supervisor: Prof. Frank Windmeijer (Dept. STAT)
   - Duration: Apr 1, 2022 - Jun 30, 2022
@@ -30,6 +30,7 @@ title: "Biography"
   - First Prize Scholarship (2018，2017)
   - Second Prize Scholarship (2016)
   - Scholarship Award for Excellence (Dept. MATH);
+  - Exceleence in Thesis (2019)
 
 - - -
 
@@ -39,9 +40,14 @@ title: "Biography"
   - Honorable Mention in 2017 Mathematical Contest In Modeling.
   - Second Prize in 2016 Aais and Pacific Mathematical Contest in Modelling.
 - Swiming Race
-  -
+  - Member of the youth amateur sports school swimming team (2003-2012).
+  - Founding member of the university's varsity swimming team.
+  - Broke the university 50m freestyle record (2018).
+  - Placed in more than a dozen provincial swimming competitions (2015-2019).
 
 - Financial Knowledge
+  - Chartered Financial Analyst (CFA) Level I exam passed (Feb, 2021)
+  - Candidate for CFA Level II exam (Nov, 2022)
 
 
 

@@ -22,7 +22,7 @@ author_profile: true
 
 ## Preprint 
 - - -
-* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with potentially many (weak) and some invalid instruments. (Submitted to *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/WIT-JRSSB.pdf) + [slides](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_slide.pdf)]
+* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with potentially many (weak) and some invalid instruments. (Submitted to *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/WIT_JRSSB.pdf) + [slides](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_slide.pdf)]
 
 ## Statistics Publication
 <sup>*</sup> Equal authorship statement
@@ -30,7 +30,7 @@ author_profile: true
 
 * Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, in press. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/RiskLowerBound.pdf)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]
 
-* **Yiqi LIN***, Yushun Zhang*, Guoliang Tian, Changxin Ma. Fast QLB algorithm and hypothesis tests in logistic model for ophthalmologic bilateral correlated data. *Journal of Biopharmaceutical Statistics*, **31**(1), 91-107.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JBS.pdf)+[html](https://www.tandfonline.com/eprint/CXPFQYYVHIJP8MVUCHZW/full?target=10.1080/10543406.2020.1814794)+[slide]([./talk](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JBS_myslide.pdf)]
+* **Yiqi LIN***, Yushun Zhang*, Guoliang Tian, Changxin Ma. Fast QLB algorithm and hypothesis tests in logistic model for ophthalmologic bilateral correlated data. *Journal of Biopharmaceutical Statistics*, **31**(1), 91-107.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JBS.pdf)+[html](https://www.tandfonline.com/eprint/CXPFQYYVHIJP8MVUCHZW/full?target=10.1080/10543406.2020.1814794)+[slide]([https://qoifoq.github.io/linyiqi.github.io/_pages/talk](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JBS_myslide.pdf)]
 
 
 

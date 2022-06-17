@@ -16,9 +16,6 @@ My main area of research is in Statistical Methodology, Econometrics, Causal Inf
 
 Prior to joining the CUHK, I obtained my bachelor’s degree in Statistics in [Department of Mathematics](https://math.sustech.edu.cn/) at [Southern University of Science and Technology]([http://www.hdu.edu.cn/](https://sustech.edu.cn/index.html)) in 2019.
 
-## Educations
-
-## Award
 
 
 <!--## Research Interests:-->

@@ -18,6 +18,7 @@ title: "Biography"
   - GPA: 3.79/4.0(Overall), 3.91/4.0(Major)
   - Ranking: 1st/40
   - Duration: Sep 1, 2015 - Jun 30, 2019
+
 # Awards
 - CUHK
   - Reach Out Award (Hong Kong Gov)

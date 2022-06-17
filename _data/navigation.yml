@@ -19,7 +19,7 @@ main:
   #  url: /hire/
 
   - title: "Service"
-    url:/Service/
+    url: /Service/
     
   # - title: "CV"
   #   url: /cv/

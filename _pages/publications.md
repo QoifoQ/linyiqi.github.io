@@ -22,14 +22,14 @@ author_profile: true
 
 ## Preprint 
 - - -
-* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with potentially many (weak) and some invalid instruments. (Submitted to *Journal of the Royal Statistical Society: Series B*). [[pdf](.) + [slides](.)]
+* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with potentially many (weak) and some invalid instruments. (Submitted to *Journal of the Royal Statistical Society: Series B*). [[pdf](./paper/WIT-JRSSB.pdf) + [slides](.)]
 
 ## Statistics Publication
-* **Yiqi Lin**, Xinyuan Song. Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, in press. [[pdf](.)+[slides](.)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707?via%3Dihub)]
+* **Yiqi Lin**, Xinyuan Song. Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, in press. [[pdf](./paper/JMVA.pdf)+[slides](.)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707?via%3Dihub)]
 
-* Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, in press. [[pdf](.)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]
+* Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, in press. [[pdf](./paper/RiskLowerBound.pdf)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]
 
-* **Yiqi LIN**, Yushun Zhang, Guoliang Tian, Changxin Ma. Fast QLB algorithm and hypothesis tests in logistic model for ophthalmologic bilateral correlated data. *Journal of Biopharmaceutical Statistics*, **31**(1), 91-107.[[pdf](.)+[html](https://www.tandfonline.com/eprint/CXPFQYYVHIJP8MVUCHZW/full?target=10.1080/10543406.2020.1814794)]
+* **Yiqi LIN**, Yushun Zhang, Guoliang Tian, Changxin Ma. Fast QLB algorithm and hypothesis tests in logistic model for ophthalmologic bilateral correlated data. *Journal of Biopharmaceutical Statistics*, **31**(1), 91-107.[[pdf](./paper/JBS.pdf)+[html](https://www.tandfonline.com/eprint/CXPFQYYVHIJP8MVUCHZW/full?target=10.1080/10543406.2020.1814794)]
 - - -
 
 * **Dai, B.**, Shen, X., & Pan, W. (2022+). Significance tests of feature relevance for a blackbox learner. *arXiv preprint* arXiv:2103.04985. [ [slides](./talk/dnnInf_ben_JSM2021.pdf) + [html](https://arxiv.org/abs/2103.04985) + [pdf](https://arxiv.org/pdf/2103.04985.pdf) + [github](https://github.com/statmlben/dnn-inference) + [docs](https://dnn-inference.readthedocs.io/en/latest/) ]

@@ -26,7 +26,7 @@ author_profile: true
 
 ## Statistics Publication
 <sup>\*</sup> Equal authorship statement
-* **Yiqi Lin**, Xinyuan Song. Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, in press. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JMVA.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JMVA-slide.pdf)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707?via%3Dihub)]
+* **Yiqi Lin**, Xinyuan Song. Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, in press. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JMVA.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JMVA-slide.pdf)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707)]
 
 * Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, in press. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/RiskLowerBound.pdf)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]
 

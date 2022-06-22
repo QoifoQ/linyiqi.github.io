@@ -24,7 +24,7 @@ title: "Biography"
 # Awards
 - CUHK
   - Reach Out Award (Hong Kong Gov)
-  - Overseas Research Award & Research Exploration Award (Dept. Stat)
+  - Overseas Research Award (Dept. Stat)
 - SUSTech 
   - Outstanding Graduates
   - First Prize Scholarship (2018，2017)

@@ -40,7 +40,7 @@ title: "Biography"
   - Honorable Mention in 2017 Mathematical Contest In Modeling.
   - Second Prize in 2016 Asia and Pacific Mathematical Contest in Modelling.
 - Swimming Race
-  - Member of the youth amateur sports school swimming team (2003-2012).
+  - Member of the youth amateur sports swimming team of Longyan city(2003-2012).
   - Founding member of the university's varsity swimming team.
   - Broke the university 50m freestyle record (2018).
   - Placed in more than a dozen provincial swimming competitions (2015-2019).

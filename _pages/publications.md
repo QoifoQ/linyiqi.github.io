@@ -18,7 +18,7 @@ author_profile: true
 ## Working Paper 
 - - -
 
-* Yudan Zou, **Yiqi Lin**, Xinyuan Song. Order Selection in Heterogeneous Hidden Markov model: a Bayesian Approach.
+* Yudan Zou, **Yiqi Lin**, Xinyuan Song. Bayesian order selection in heterogeneous hidden Markov models.
 
 ## Preprint 
 - - -

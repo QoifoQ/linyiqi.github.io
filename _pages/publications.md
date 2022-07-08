@@ -22,7 +22,7 @@ author_profile: true
 
 ## Preprint 
 - - -
-* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with many weak and invalid instruments. (Submitted). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/WIT_main.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
+* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with many weak and invalid instruments. (Submitted). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 
 ## Statistics Publication
 <sup>\*</sup> Equal authorship statement

@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Working Paper 
+## Ongoing Project
 - - -
-
+Reinforcement learning with high-dimensional Q-learning and endogenous reward.
 
 
 ## Preprint 

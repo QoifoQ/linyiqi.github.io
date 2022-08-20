@@ -17,7 +17,8 @@ author_profile: true
 
 ## Ongoing Project
 - - -
-Reinforcement learning with high-dimensional Q-learning and endogenous reward.
+* Reinforcement learning with high-dimensional Q-learning and endogenous reward.
+* On the robust treatment effect through invalid intrumental varibles.
 
 
 ## Preprint 

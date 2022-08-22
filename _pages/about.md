@@ -18,7 +18,7 @@ Before joining the CUHK, I obtained my bachelor's degree in Statistics in [Depar
 
 # My Recent Technical Report
 
-* Here is a technical report that covers two important resaerch work in my Ph.D. study. [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Technical_Report.pdf)
+* Here is a technical report that covers two important resaerch work in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Technical_Report.pdf)]
 
 <!--## Research Interests:-->
 <!-- 🎯 <span style="font-size:1.2em;"> Optimization </span>  | 🔍 <span style="font-size:1.2em;"> Inference </span> | -->

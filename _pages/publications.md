@@ -23,7 +23,7 @@ author_profile: true
 
 ## Preprint 
 - - -
-* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with many weak and invalid instruments. (Submitted to one of **TOP 4** journals in Statistics). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
+* **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. On the instrumental variable estimation with many weak and invalid instruments. (Submitted to one of **TOP 4** journals in Statistics). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 
 * Yudan Zou, **Yiqi Lin**, Xinyuan Song. Bayesian order selection in heterogeneous hidden Markov models. (Submitted to *Journal of Computational and Graphical Statistics*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf)]
 

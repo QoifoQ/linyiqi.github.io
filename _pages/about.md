@@ -16,7 +16,9 @@ My main area of research is High-Dimension Statistics, Econometrics, Causal Infe
 
 Before joining the CUHK, I obtained my bachelor's degree in Statistics in [Department of Mathematics](https://math.sustech.edu.cn/) at [Southern University of Science and Technology]([http://www.hdu.edu.cn/](https://sustech.edu.cn/index.html)) in 2019.
 
+# My Recent Technical Report
 
+* Here is a technical report that covers two important resaerch work in my Ph.D. study.[pdf]
 
 <!--## Research Interests:-->
 <!-- 🎯 <span style="font-size:1.2em;"> Optimization </span>  | 🔍 <span style="font-size:1.2em;"> Inference </span> | -->

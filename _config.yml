@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-HK"
-title                    : "Yiqi LIN"
+title                    : "Yiqi Lin"
 title_separator          : "-"
-name                     : &name "Yiqi Lin"
+name                     : &name "Richard (Yiqi) Lin"
 description              : &description "Ph.D. Candidate in Statistics"
 url                      : https://qoifoq.github.io/linyiqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Yiqi Lin"
   avatar           : "IMG_4190.jpg"
-  bio              : "Ph.D. Candidate in Statistics, The Chinese University of Hong Kong; Visiting researcher in University of Oxford"
+  bio              : "Ph.D. Candidate in Statistics, The Chinese University of Hong Kong"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           :

@@ -35,7 +35,7 @@ Before joining the CUHK, I obtained my bachelor's degree in Statistics in [Depar
 
 ## Contact Info
 
-    📧 Email: YiqiLIN@link.cuhk.edu.hk
+    📧 Email: YiqiLIN@link.cuhk.edu.hk or qazxsw30300@gmail.com
 
     🏢 Office: Room G28, Lady Shaw Building
                The Chinese University of Hong Kong

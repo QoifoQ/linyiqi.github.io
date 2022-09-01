@@ -18,7 +18,7 @@ Before joining the CUHK, I obtained my bachelor's degree in Statistics in [Depar
 
 # My recent technical report
 
-* Here is a technical report that covers two important resaerches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Technical_Report.pdf)]
+* Here is a technical report that covers two important researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Technical_Report.pdf)]
 
 # News 
 * I am delighted to announce that I was awarded the **Research Achievement Award** by Dept. Stat, CUHK. (Aug 22, 2022)

@@ -31,7 +31,7 @@ title: "Biography"
   - First Prize Scholarship (2018，2017)
   - Second Prize Scholarship (2016)
   - Scholarship Award for Excellence (Dept. MATH);
-  - Exceleence in Thesis (2019)
+  - Excellence in Thesis (2019)
 
 - - -
 

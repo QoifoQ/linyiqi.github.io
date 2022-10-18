@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-My name is Richard Lin (林亦麒, Yiqi Lin). I'm a 4-th (final) year Ph.D. candidate in Statistics, [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk), where I am currently supervised by [Chair/Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) in Dept. STAT, and co-supervised by [Prof. Qingliang Fan](https://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=qlfan) in Dept. Econ. Previously, I was a Doctoral Visiting Researcher in [Department of Statistics](https://www.stats.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) and cooperated with the eminent economist & statistician [Prof. Frank Windmeijer](https://www.stats.ox.ac.uk/all-people/professor-frank-windmeijer/) on causal inference topic of instrumental variable.
+My name is Yiqi Lin (林亦麒). I'm a 4-th (final) year Ph.D. candidate in Statistics, [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk), where I am currently supervised by [Chair/Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) in Dept. STAT, and co-supervised by [Prof. Qingliang Fan](https://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=qlfan) in Dept. Econ. Previously, I was a Doctoral Visiting Researcher in [Department of Statistics](https://www.stats.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) and cooperated with the eminent economist & statistician [Prof. Frank Windmeijer](https://www.stats.ox.ac.uk/all-people/professor-frank-windmeijer/) on causal inference topic of instrumental variable.
 
 My main area of research is High-Dimension Statistics, Causal Inference, and Bayesian Statistics. My goal in research is to develop statistical methods with *reliable theoretical support*, *good empirical performance* as well as *an efficient practical algorithm* for real world problems.
 
@@ -35,7 +35,7 @@ Before joining the CUHK, I obtained my bachelor's degree in Statistics in [Depar
 
 ## Contact Info
 
-    📧 Email: YiqiLIN@link.cuhk.edu.hk or qazxsw30300@gmail.com
+    📧 Email: YiqiLIN@link.cuhk.edu.hk
 
     🏢 Office: Room G28, Lady Shaw Building
                The Chinese University of Hong Kong

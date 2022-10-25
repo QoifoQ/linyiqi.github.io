@@ -17,8 +17,8 @@ author_profile: true
 
 ## Ongoing Project
 - - -
+* On the estimation of endogenous treatment effects with included exogenous variables.
 * Reinforcement learning with high-dimensional Q-learning and endogenous reward.
-* On the robust treatment effect through invalid intrumental varibles.
 
 
 ## Preprint 

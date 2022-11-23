@@ -19,6 +19,7 @@ author_profile: true
 - - -
 * On the estimation of endogenous treatment effects with included exogenous variables.
 * Reinforcement learning with high-dimensional Q-learning and endogenous reward.
+* Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis.
 
 
 ## Preprint 

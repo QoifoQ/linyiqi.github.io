@@ -34,7 +34,7 @@ author_profile: true
 
 * Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, in press. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/RiskLowerBound.pdf)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]
 
-* **Yiqi LIN\***, Yushun Zhang\*, Guoliang Tian, Changxin Ma. Fast QLB algorithm and hypothesis tests in logistic model for ophthalmologic bilateral correlated data. *Journal of Biopharmaceutical Statistics*, 2021, **31**(1): 91-107.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JBS.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JBS_myslide.pdf)+[html](https://www.tandfonline.com/eprint/CXPFQYYVHIJP8MVUCHZW/full?target=10.1080/10543406.2020.1814794)]
+* **Yiqi LIN\***, Yushun Zhang\*, Guoliang Tian, Changxin Ma. Fast QLB algorithm and hypothesis tests in logistic model for ophthalmologic bilateral correlated data. *Journal of Biopharmaceutical Statistics*, 2021, **31**(1): 91-107. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JBS.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JBS_myslide.pdf)+[html](https://www.tandfonline.com/eprint/CXPFQYYVHIJP8MVUCHZW/full?target=10.1080/10543406.2020.1814794)]
 
 ## Invited presentation in Conference
 - 13th International Conference on Computational and Financial Econometrics (CFE 2019), London, U.K..

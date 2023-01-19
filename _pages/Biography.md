@@ -47,8 +47,7 @@ title: "Biography"
   - Placed in more than a dozen provincial swimming competitions (2015-2019).
 
 - Financial Knowledge
-  - Chartered Financial Analyst (CFA) Level I exam passed (Feb 2021)
-  - Candidate for CFA Level II exam (Nov 2022)
+  - Chartered Financial Analyst (CFA) Level I exam passed 
 
 
 

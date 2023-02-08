@@ -37,6 +37,7 @@ author_profile: true
 * **Yiqi LIN\***, Yushun Zhang\*, Guoliang Tian, Changxin Ma. Fast QLB algorithm and hypothesis tests in logistic model for ophthalmologic bilateral correlated data. *Journal of Biopharmaceutical Statistics*, 2021, **31**(1): 91-107. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JBS.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JBS_myslide.pdf)+[html](https://www.tandfonline.com/eprint/CXPFQYYVHIJP8MVUCHZW/full?target=10.1080/10543406.2020.1814794)]
 
 ## Invited presentation in Conference
+- 2022-2023 Science Faculty Postgraduate Research Day, CUHK, Hong Kong. [[slides]]
 - 13th International Conference on Computational and Financial Econometrics (CFE 2019), London, U.K..
 - 4th International Conference on Econometrics and Statistics (EcoSta 2021), Hong Kong.
 - 5th International Conference on Econometrics and Statistics (EcoSta 2022), Kyoto, Japan.

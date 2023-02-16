@@ -21,7 +21,7 @@ Before joining the CUHK, I obtained my bachelor's degree in Statistics in [Depar
 * Here is a technical report that covers two important researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Technical_Report.pdf)]
 
 # News 
-* I was awarded for Merit Award for my oral presentation in Science Faculty Postgraduate Research Day. (Feb 8,2023)
+* I was awarded for Merit Award for my oral presentation in Science Faculty Postgraduate Research Day. (Feb 8, 2023)
 * I was awarded the **Research Achievement Award** by Dept. Stat, CUHK. (Aug 22, 2022)
 
 <!--## Research Interests:-->

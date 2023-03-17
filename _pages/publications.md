@@ -32,7 +32,7 @@ author_profile: true
 
 * Jiaming Zhang, Xinyuan Song, **Yiqi Lin**, Hanwen Ning. Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis.
 ## Statistical Publication
-
+- - -
 * **Yiqi Lin**, Xinyuan Song. Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, 2022, **192**: 105061. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JMVA.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JMVA-slide.pdf)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707)]
 
 * Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, in press. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/RiskLowerBound.pdf)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]

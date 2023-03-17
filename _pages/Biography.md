@@ -26,6 +26,7 @@ title: "Biography"
   - Reach Out Award (Hong Kong Gov)
   - Overseas Research Award (Dept. Stat)
   - **Research Achievement Award** (Dept. Stat)
+  - Merit Award (Faculty of Science)
 - SUSTech 
   - Outstanding Graduates
   - First Prize Scholarship (2018，2017)

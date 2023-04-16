@@ -10,19 +10,21 @@ redirect_from:
 
 # About me
 
-My name is Yiqi Lin (林亦麒). I'm a 4-th (final) year Ph.D. candidate in Statistics, [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk), where I am currently supervised by [Chair/Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) in Dept. STAT, and co-supervised by [Prof. Qingliang Fan](https://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=qlfan) in Dept. Econ. Previously, I was a Doctoral Visiting Researcher in [Department of Statistics](https://www.stats.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) and cooperated with the eminent economist & statistician [Prof. Frank Windmeijer](https://www.stats.ox.ac.uk/all-people/professor-frank-windmeijer/) on causal inference topic of instrumental variable.
+My name is Yiqi Lin (林亦麒), and I am currently a fourth-year Ph.D. candidate in [Statistics](https://www.sta.cuhk.edu.hk/default.aspx) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk). My research is supervised by [Chair/Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) in the Department of Statistics, and co-supervised by [Prof. Qingliang Fan](https://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=qlfan) in the Department of Economics. Previously, I was a Doctoral Visiting Researcher at the [Department of Statistics](https://www.stats.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), where I collaborated with the renowned economist and statistician [Prof. Frank Windmeijer](https://www.stats.ox.ac.uk/all-people/professor-frank-windmeijer/) on the topic of causal inference using instrumental variables.
 
-My main area of research is High-Dimension Statistics, Causal Inference, and Bayesian Statistics. My goal in research is to develop statistical methods with *reliable theoretical support*, *good empirical performance* as well as *an efficient practical algorithm* for real world problems.
 
-Before joining the CUHK, I obtained my bachelor's degree in Statistics in [Department of Mathematics](https://math.sustech.edu.cn/) at [Southern University of Science and Technology]([http://www.hdu.edu.cn/](https://sustech.edu.cn/index.html)) in 2019.
+My primary research interests include High-Dimensional Statistics, Causal Inference, Meachine Learning and Bayesian Statistics. I aim to develop statistical methods that have *reliable theoretical support, good empirical performance, and efficient practical algorithms* for real-world problems.
+
+Prior to joining CUHK, I obtained my bachelor's degree in Statistics from the [Department of Mathematics](https://math.sustech.edu.cn/) at the [Southern University of Science and Technology]([http://www.hdu.edu.cn/](https://sustech.edu.cn/index.html)) in 2019.
+
 
 # My recent technical report
 
 * Here is a technical report that covers two important researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Technical_Report.pdf)]
 
 # News 
-* I was awarded for Merit Award for my oral presentation in Science Faculty Postgraduate Research Day. (Feb 8, 2023)
-* I was awarded the **Research Achievement Award** by Dept. Stat, CUHK. (Aug 22, 2022)
+* I was awarded the Merit Award for my oral presentation at the Science Faculty Postgraduate Research Day on February 8, 2023.
+* On August 22, 2022, I was honored to receive the **Research Achievement Award** from the Department of Statistics at CUHK.
 
 <!--## Research Interests:-->
 <!-- 🎯 <span style="font-size:1.2em;"> Optimization </span>  | 🔍 <span style="font-size:1.2em;"> Inference </span> | -->

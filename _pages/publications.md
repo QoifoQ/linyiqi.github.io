@@ -30,7 +30,7 @@ author_profile: true
 
 * Bayesian order selection in heterogeneous hidden Markov models.  Yudan Zou, **Yiqi Lin**, Xinyuan Song. (Under first revision on *Journal of Computational and Graphical Statistics*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf)]
 
-*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. Jiaming Zhang, Xinyuan Song, **Yiqi Lin**, Hanwen Ning.
+*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. Jiaming Zhang, **Yiqi Lin**, Xinyuan Song, Hanwen Ning.
 
 ## Statistical Publication
 - - -
@@ -42,7 +42,6 @@ author_profile: true
 
 ## Invited presentation in Conference
 - - -
-- (Upcoming) 17th International Symposium on Econometric Theory and Applications (SETA 2023), Singapore.
 - 2022-2023 Science Faculty Postgraduate Research Day, CUHK, Hong Kong. [[slides](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Slide_Research_Day.pdf)]
 - 13th International Conference on Computational and Financial Econometrics (CFE 2019), London, U.K..
 - 4th International Conference on Econometrics and Statistics (EcoSta 2021), Hong Kong.

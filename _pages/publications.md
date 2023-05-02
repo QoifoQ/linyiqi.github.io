@@ -19,7 +19,7 @@ author_profile: true
 
 ## Ongoing Project
 - - -
-* On the estimation of endogenous treatment effects with included exogenous variables.
+* On the estimation of endogenous treatment effects without classical (linearly) valid instruments.
 * Reinforcement learning with high-dimensional Q-learning and endogenous reward.
 
 

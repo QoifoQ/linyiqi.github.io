@@ -18,9 +18,9 @@ My primary research interests include High-Dimensional Statistics, Causal Infere
 Prior to joining CUHK, I obtained my bachelor's degree in Statistics from the [Department of Mathematics](https://math.sustech.edu.cn/) at the [Southern University of Science and Technology]([http://www.hdu.edu.cn/](https://sustech.edu.cn/index.html)) in 2019.
 
 
-# My thesis defense slides
+<!--# My thesis defense slides -->
 
-* Here is the thesis defense slides covering main researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Thesis_Slides.pdf)]
+<!--* Here is the thesis defense slides covering main researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Thesis_Slides.pdf)]-->
 
 # News 
 * I was awarded the Merit Award for my oral presentation at the Science Faculty Postgraduate Research Day on February 8, 2023.

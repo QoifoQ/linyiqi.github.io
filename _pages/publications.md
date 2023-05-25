@@ -26,7 +26,7 @@ author_profile: true
 
 ## Preprint 
 - - -
-* On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. (Under first revision on *Journal of the Royal Statistical Society Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
+* On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. (Under first revision on *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 
 * Bayesian order selection in heterogeneous hidden Markov models.  Yudan Zou, **Yiqi Lin**, Xinyuan Song. (Under first revision on *Journal of Computational and Graphical Statistics*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf)]
 

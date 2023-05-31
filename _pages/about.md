@@ -19,7 +19,7 @@ Prior to joining CUHK, I obtained my bachelor's degree in Statistics from the [D
 
 <!--# My thesis defense slides -->
 
-<!--* Here is the thesis defense slides covering main researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Thesis_Slides.pdf)]-->
+ Here is the thesis defense slides covering main researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Thesis_Slides.pdf)]
 
 # News 
 * I was awarded the Merit Award for my oral presentation at the Science Faculty Postgraduate Research Day on February 8, 2023.

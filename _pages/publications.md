@@ -28,13 +28,17 @@ author_profile: true
 - - -
 * On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. (Under first revision on *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 
-* Bayesian order selection in heterogeneous hidden Markov models.  Yudan Zou, **Yiqi Lin**, Xinyuan Song. (Under first revision on *Journal of Computational and Graphical Statistics*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf)]
 
 *  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. Jiaming Zhang, **Yiqi Lin**, Xinyuan Song, Hanwen Ning. (Submitted to *Journal of Business & Economic Statistics*)
 
 ## Statistical Publication
 - - -
+
+
+* Bayesian order selection in heterogeneous hidden Markov models.  Yudan Zou, **Yiqi Lin**, Xinyuan Song. (*Journal of Computational and Graphical Statistics*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf)]
+
 *  Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JMVA.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JMVA-slide.pdf)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707)]
+
 
 * A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/RiskLowerBound.pdf)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]
 

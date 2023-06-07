@@ -35,7 +35,7 @@ author_profile: true
 - - -
 
 
-* Bayesian order selection in heterogeneous hidden Markov models.  Yudan Zou, **Yiqi Lin**, Xinyuan Song. (*Journal of Computational and Graphical Statistics*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf)]
+* Bayesian order selection in heterogeneous hidden Markov models.  *Journal of Computational and Graphical Statistics*,  Yudan Zou, **Yiqi Lin**, Xinyuan Song. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf)]
 
 *  Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JMVA.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JMVA-slide.pdf)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707)]
 

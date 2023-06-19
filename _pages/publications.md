@@ -19,8 +19,10 @@ author_profile: true
 
 ## Ongoing Project
 - - -
+
+* Factor-based Debiased Lasso: High-dimensional Inference Under Dense Precision Matrix.
 * On the estimation of endogenous treatment effects without classical (linearly) valid instruments. (Almost ready)
-* Reinforcement learning with high-dimensional Q-learning and endogenous reward.
+
 
 
 

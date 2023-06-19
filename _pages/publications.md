@@ -20,7 +20,7 @@ author_profile: true
 ## Ongoing Project
 - - -
 
-* Factor-based Debiased Lasso: High-dimensional Inference Under Dense Precision Matrix.
+* Factor-based debiased Lasso: high-dimensional inference under dense precision matrix.
 * On the estimation of endogenous treatment effects without classical (linearly) valid instruments. (Almost ready)
 
 

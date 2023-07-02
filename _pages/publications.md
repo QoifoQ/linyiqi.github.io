@@ -47,7 +47,7 @@ author_profile: true
 
 ## Invited presentation in Conference
 - - -
-- 2023 International Chinese Statistical Association (ICSA) China Conference, Chengdu, China. (Upcoming in 30 June-3 July, 2023)
+- 2023 International Chinese Statistical Association (ICSA) China Conference, Chengdu, China.[[slides](https://qoifoq.github.io/linyiqi.github.io/_pages/talks/ICSA_Pre_Yiqi.pdf)]
 - 2022-2023 Science Faculty Postgraduate Research Day, CUHK, Hong Kong. [[slides](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Slide_Research_Day.pdf)]
 - 13th International Conference on Computational and Financial Econometrics (CFE 2019), London, U.K..
 - 4th International Conference on Econometrics and Statistics (EcoSta 2021), Hong Kong.

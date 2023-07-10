@@ -31,12 +31,12 @@ author_profile: true
 
 * On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. (Under first revision on *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 
-*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. Jiaming Zhang, **Yiqi Lin**, Xinyuan Song, Hanwen Ning. (Submitted to *Journal of Business & Economic Statistics*)
+*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. Jiaming Zhang, **Yiqi Lin**, Xinyuan Song, Hanwen Ning. (Submitted to *Information Sciences*)
 
 ## Statistical Publication
 - - -
 
-* Bayesian order selection in heterogeneous hidden Markov models.  *Journal of Computational and Graphical Statistics*,  Yudan Zou, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf)]
+* Bayesian order selection in heterogeneous hidden Markov models.  *Journal of Computational and Graphical Statistics*,  Yudan Zou, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf) + [html](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2231055)]
 
 *  Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JMVA.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JMVA-slide.pdf)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707)]
 
@@ -47,9 +47,9 @@ author_profile: true
 
 ## Invited presentation in Conference
 - - -
-- 2023 International Chinese Statistical Association (ICSA) China Conference, Chengdu, China.[[slides](https://qoifoq.github.io/linyiqi.github.io/_pages/talks/ICSA_Pre_Yiqi.pdf)]
-- 2022-2023 Science Faculty Postgraduate Research Day, CUHK, Hong Kong. [[slides](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Slide_Research_Day.pdf)]
-- 13th International Conference on Computational and Financial Econometrics (CFE 2019), London, U.K..
+- 2023 International Chinese Statistical Association (ICSA) China Conference, Chengdu, China.
+- 2022-2023 Science Faculty Postgraduate Research Day, CUHK, Hong Kong. 
+- 13th International Conference on Computational and Financial Econometrics (CFE 2019), London, U.K.
 - 4th International Conference on Econometrics and Statistics (EcoSta 2021), Hong Kong.
 - 5th International Conference on Econometrics and Statistics (EcoSta 2022), Kyoto, Japan.
 

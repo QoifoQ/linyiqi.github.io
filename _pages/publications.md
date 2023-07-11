@@ -31,7 +31,7 @@ author_profile: true
 
 * On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. (Under first revision on *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 
-*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. Jiaming Zhang, **Yiqi Lin**, Xinyuan Song, Hanwen Ning. (Submitted to *Information Sciences*)
+*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. Jiaming Zhang, **Yiqi Lin**, Xinyuan Song, Hanwen Ning. (Submitted)
 
 ## Statistical Publication
 - - -

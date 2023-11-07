@@ -21,7 +21,7 @@ author_profile: true
 - - -
 
 * Factor-based debiased Lasso: high-dimensional inference under dense precision matrix.
-* On the estimation of endogenous treatment effects without classical (linearly) valid instruments. (Almost ready)
+
 
 
 
@@ -30,6 +30,8 @@ author_profile: true
 - - -
 
 * On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. (Under first revision on *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
+* On the estimation of endogenous treatment effects without classical (linearly) valid instruments.
+* Causal mediation analysis with multiple mediators and censored outcomes by GAN approach.
 
 
 ## Statistical Publication
@@ -39,7 +41,7 @@ author_profile: true
 
 *  Order selection for regression-based hidden Markov model. *Journal of Multivariate Analysis*, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/JMVA.pdf)+[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/JMVA-slide.pdf)+[html](https://www.sciencedirect.com/science/article/pii/S0047259X22000707)]
 
-*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. *Knowledge-Based Systems*, Jiaming Zhang, **Yiqi LIN**, Xinyuan Song, Hanwen Ning. [[html](https://www.sciencedirect.com/science/article/pii/S0950705123008675)]
+*  Generative adversarial mediation network: A novel generative learning approach to causal mediation analysis. *Knowledge-Based Systems*, Jiaming Zhang, **Yiqi LIN**, Xinyuan Song, Hanwen Ning. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/GAMn.pdf)[html](https://www.sciencedirect.com/science/article/pii/S0950705123008675)]
 
 
 * A remark about a learning risk lower bound. *Communications in Statistics - Theory and Methods*, Man Fung Leung, **Yiqi LIN**, Nicolas Wicker. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/RiskLowerBound.pdf)+[html](https://www.tandfonline.com/eprint/JKS2KEBYTWTRPIVIXHHJ/full?target=10.1080/03610926.2022.2076114)]

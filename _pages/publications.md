@@ -28,14 +28,13 @@ author_profile: true
 
 ## Preprint 
 - - -
-
-* On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. (Minor Revision on *Journal of the Royal Statistical Society: Series B*). [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 * On the estimation of endogenous treatment effects without classical (linearly) valid instruments.
 * Causal mediation analysis with multiple mediators and censored outcomes by GAN approach.
 
 
 ## Statistical Publication
 - - -
+* On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan.  *Journal of the Royal Statistical Society: Series B*. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/2207.03035.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035)]
 
 * Bayesian order selection in heterogeneous hidden Markov models.  *Journal of Computational and Graphical Statistics*,  Yudan Zou, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf) + [html](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2231055)]
 

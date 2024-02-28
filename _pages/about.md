@@ -16,7 +16,7 @@ Currently, I am a Quantitative Researcher at Qube Research and Technologies (QRT
 
 My main research interests encompass High-Dimensional Statistics, Causal Inference, Machine Learning, and Bayesian Statistics. I aim to develop statistical methods that have *reliable theoretical support, good empirical performance, and efficient practical algorithms* for real-world problems.
 
-Prior to joining CUHK, I obtained my bachelor's degree in Statistics from the [Department of Mathematics](https://math.sustech.edu.cn/) at the [Southern University of Science and Technology]([http://www.hdu.edu.cn/](https://sustech.edu.cn/index.html)) in 2019.
+<!--Prior to joining CUHK, I obtained my bachelor's degree in Statistics from the [Department of Mathematics](https://math.sustech.edu.cn/) at the [Southern University of Science and Technology]([http://www.hdu.edu.cn/](https://sustech.edu.cn/index.html)) in 2019.-->
 
 
 <!--# My thesis defense slides-->
@@ -24,8 +24,8 @@ Prior to joining CUHK, I obtained my bachelor's degree in Statistics from the [D
 <!--Here is the thesis defense slides covering main researches in my Ph.D. study. [[slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/Thesis_Slides.pdf)]-->
 
 # News 
-* I was awarded the Merit Award for my oral presentation at the Science Faculty Postgraduate Research Day on February 8, 2023.
-* On August 22, 2022, I was honored to receive the **Research Achievement Award** from the Department of Statistics at CUHK.
+* My research paper **On the instrumental variable estimation with many weak and invalid instruments** was accepted in JRSSB.
+* I was honored to receive the **Research Achievement Award** from the Department of Statistics at CUHK.
 
 <!--## Research Interests:-->
 <!-- 🎯 <span style="font-size:1.2em;"> Optimization </span>  | 🔍 <span style="font-size:1.2em;"> Inference </span> | -->

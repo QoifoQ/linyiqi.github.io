@@ -22,10 +22,6 @@ author_profile: true
 
 * Factor-based debiased Lasso: high-dimensional inference under dense precision matrix.
 
-
-
-
-
 ## Preprint 
 - - -
 * On the estimation of endogenous treatment effects without classical (linearly) valid instruments.
@@ -34,7 +30,7 @@ author_profile: true
 
 ## Statistical Publication
 - - -
-* On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan.  *Journal of the Royal Statistical Society: Series B*. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/WIT_JRSSB.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://arxiv.org/abs/2207.03035](https://doi.org/10.1093/jrsssb/qkae025)]
+* On the instrumental variable estimation with many weak and invalid instruments.  **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan.  *Journal of the Royal Statistical Society: Series B*. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/WIT_JRSSB.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://doi.org/10.1093/jrsssb/qkae025)]
 
 * Bayesian order selection in heterogeneous hidden Markov models.  *Journal of Computational and Graphical Statistics*,  Yudan Zou, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf) + [html](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2231055)]
 

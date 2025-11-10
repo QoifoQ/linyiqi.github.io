@@ -32,8 +32,8 @@ author_profile: true
 - - -
 * On the instrumental variable estimation with many weak and invalid instruments. <u>Journal of the Royal Statistical Society: Series B</u>, **Yiqi Lin**, Frank Windmeijer, Xinyuan Song, Qingliang Fan. [[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/WIT_JRSSB.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/talk/WIT_Slide.pdf) + [code](https://github.com/QoifoQ/WIT) + [html](https://doi.org/10.1093/jrsssb/qkae025)]
 
-* GAHMN: A Generative Approach for High-Dimensional Mediation Analysis <u> The Association for the Advancement of Artificial Intelligence
--2026 (AAAI 26) **Oral** </u>, Jiaming Zhang,**Yiqi Lin**, Rou Zhang, Xinyuan Song, Hanwen Ning. 
+* GAHMN: A Generative Approach for High-Dimensional Mediation Analysis. <u>The Association for the Advancement of Artificial Intelligence
+-2026 (AAAI 26) **Oral**</u>, Jiaming Zhang,**Yiqi Lin**, Rou Zhang, Xinyuan Song, Hanwen Ning. 
 
 * Bayesian order selection in heterogeneous hidden Markov models.  <u>Journal of Computational and Graphical Statistics</u>,  Yudan Zou, **Yiqi Lin**, Xinyuan Song.[[pdf](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/BHMM.pdf) + [slide](https://qoifoq.github.io/linyiqi.github.io/_pages/paper/Bayes-HMM.pdf) + [html](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2231055)]
 
